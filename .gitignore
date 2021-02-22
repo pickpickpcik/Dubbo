@@ -1,0 +1,4 @@
+# Project exclude paths
+/dubbo01/target/
+/dubbo02/target/
+/dubbo03/target/
